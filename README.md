@@ -17,5 +17,5 @@ Configure your environment variables
 ```
 
 ```sh
-You can start the application by typing `npm run dev` or `yarn run dev`
+You can start the application by typing `npm dev` or `yarn dev`
 ```
