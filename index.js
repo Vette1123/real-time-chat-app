@@ -8,7 +8,12 @@ const socket = require('socket.io')
 const path = require('path')
 require('dotenv').config()
 
-app.use(cors())
+app.use(
+  cors({
+    origin: '*',
+    methods: '*',
+  })
+)
 app.use(express.json())
 
 mongoose
