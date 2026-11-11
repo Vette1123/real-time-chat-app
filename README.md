@@ -1,6 +1,6 @@
 ## Real-Time Chat App
 
-> WhatsApp-style real-time chat — React + Styled Components on the client, Node/Express/MongoDB + Socket.io on the server, all in one monorepo.
+> WhatsApp-style real-time chat. React and Styled Components on the client, Node/Express/MongoDB and Socket.io on the server, all in one monorepo.
 
 ![React](https://img.shields.io/badge/React-17-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
